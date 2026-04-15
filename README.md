@@ -1,4 +1,4 @@
-GITHUB PAGES: 
+GITHUB PAGES: https://martha-jauregui.github.io/Comp484-Project2/
 Purpose: In this project you are going to create the functionality and UI for a simple Giga Pet game. The purpose of this project is to make sure you have an understanding of JavaScript arrays, objects, click events on an element, and how to change properties in elements.
 
 Requirements: To complete this project you will add to the starter code provided. You may use any editor that you prefer. For this project you will use the JQuery library. You are encouraged to edit the structure of the provided HTML and CSS to better fit your preferred style. You may use lecture slides and the past hw’s for sample code but make sure to make it your own.
