@@ -16,7 +16,7 @@ function clickedTreatButton() {
     $('#munch-sound').get(0).play();
 
     // Requirement: Add to happiness and weight 
-    pet_info.happiness += 5;S
+    pet_info.happiness += 5;
     pet_info.weight += 2;
     checkAndUpdatePetInfoInHtml("Yum! That treat was delicious!");
 }
